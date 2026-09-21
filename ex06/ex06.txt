@@ -1,0 +1,4 @@
+Forward Chaining: Goal F -> True | Facts: {'A', 'E', 'D', 'C', 'F', 'B'}
+Backward Chaining: Goal F -> True
+
+
