@@ -1,0 +1,16 @@
+===== AI CHATBOT =====
+Type 'bye' to exit.
+You: hello
+Bot: Hello! How can I help you?
+You: how are you
+Bot: I am fine! Thank you.
+You: what is your name
+Bot: I am an AI chatbot.
+You: tell me about college
+Bot: College is a place for learning and development.
+You: what is AI
+Bot: AI stands for Artificial Intelligence.
+You: thank you
+Bot: You're welcome!
+You: bye
+Bot: Goodbye! Have a nice day.
