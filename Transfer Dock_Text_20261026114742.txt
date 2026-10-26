@@ -1,1 +1,0 @@
-Export ex10.py
