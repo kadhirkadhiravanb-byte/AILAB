@@ -1,4 +1,4 @@
-"""Simple rule-based AI chatbot."""
+
 
 
 def chatbot(user_input: str) -> str:
