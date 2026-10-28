@@ -35,5 +35,3 @@ def main() -> None:
             break
 
 
-if __name__ == "__main__":
-    main()
