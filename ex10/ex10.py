@@ -1,9 +1,8 @@
 
 
 
-def chatbot(user_input: str) -> str:
-    text = user_input.lower()
-    words = text.split()
+def chatbot(user_input: 
+    user_input = user_input.lower()
 
     if "hello" in words or "hi" in words:
         return "Hello! How can I help you?"
